@@ -1,0 +1,1 @@
+alter table Orders alter column Quantity int  NULL;
